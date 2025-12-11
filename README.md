@@ -1,11 +1,27 @@
+# PHÁT TRIỂN HỆ THỐNG QUẢN LÝ TÀI CHÍNH CÁ NHÂN CHO SINH VIÊN
 
-  # Financial Management App
+Đây là ứng dụng Quản lý Tài chính Cá nhân dành cho sinh viên. Dự án này là một phần của báo cáo đồ án học phần **QUẢN LÝ DỰ ÁN CÔNG NGHỆ THÔNG TIN** do TS.GVC Nguyễn Quốc Hùng hướng dẫn.
 
-  This is a code bundle for Financial Management App. The original project is available at [https://www.figma.com/design/rDKou8dDcvkXmx88FJTAB5/Financial-Management-App](https://cure-latch-06853293.figma.site).
+## Giới thiệu dự án
 
-  ## Running the code
+Dự án nhằm mục tiêu phát triển một ứng dụng di động giúp sinh viên Việt Nam nâng cao kiến thức tài chính và quản lý chi tiêu hiệu quả. Các tính năng chính bao gồm theo dõi thu nhập/chi tiêu theo thời gian thực, lập ngân sách cá nhân, và tích hợp với các nền tảng thanh toán địa phương (ví dụ: ví điện tử).
 
-  Run `npm i` to install the dependencies.
+## Thành viên nhóm 
+1. Trần Đăng Khôi
+2. Hoàng Thanh Bình
+3. Lê Vũ Long
+4. Trương Thiên Bảo
+## Thiết kế dự án
 
-  Run `npm run dev` to start the development server.
-  
+Thiết kế giao diện người dùng (UI/UX) và nguyên mẫu (prototype) ban đầu của ứng dụng có thể được xem tại:
+
+[Financial Management App - Figma Prototype](https://cure-latch-06853293.figma.site/)
+
+## Cài đặt và Chạy ứng dụng
+
+Làm theo các bước sau để thiết lập và chạy ứng dụng trên môi trường phát triển cục bộ:
+
+**1. Cài đặt các thư viện phụ thuộc:**
+
+```bash
+npm i
