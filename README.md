@@ -25,3 +25,7 @@ Làm theo các bước sau để thiết lập và chạy ứng dụng trên mô
 
 ```bash
 npm i
+```bash
+
+**2. Chạy môi trường phát triển (Development Server):
+npm run dev
