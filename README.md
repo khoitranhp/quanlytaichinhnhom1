@@ -18,14 +18,14 @@ Thiết kế giao diện người dùng (UI/UX) và nguyên mẫu (prototype) ba
 [Financial Management App - Figma Prototype](https://cure-latch-06853293.figma.site/)
 
 ## Cài đặt và Chạy ứng dụng
-
+```bash
 Làm theo các bước sau để thiết lập và chạy ứng dụng trên môi trường phát triển cục bộ:
 
 **1. Cài đặt các thư viện phụ thuộc:**
 
-```bash
+
 npm i
-```bash
 
 **2. Chạy môi trường phát triển (Development Server):
 npm run dev
+
